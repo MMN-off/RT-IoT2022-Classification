@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.DS_Store
+
+# Original dataset and local data splits
+/RT_IOT2022.csv
+/splits/
+
+# Python environments and temporary files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.DS_Store
