@@ -3,7 +3,7 @@
 A multiclass machine-learning project that classifies IoT network traffic records using the **RT-IoT2022** dataset. The project compares five classifiers and includes a Streamlit application for evaluating saved models on a labelled test CSV.
 
 **GitHub repository:** https://github.com/MMN-off/RT-IoT2022-Classification  
-**Live Streamlit application:** To be added after deployment on Streamlit Community Cloud.
+**Live Streamlit application:** https://rt-iot2022-classifier-mmn.streamlit.app/
 
 ## 1. Problem statement
 
